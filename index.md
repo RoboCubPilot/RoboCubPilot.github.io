@@ -3,7 +3,11 @@ layout: home
 title: Home
 ---
 
-## About
+## About me
+Coming soon. Updates will be available shortly.
+
+
+<!-- 
 一段自我介绍。研究方向 / 近期关注。
 
 ## News
@@ -21,3 +25,5 @@ title: Home
 
 ## Contact
 Email: you@example.com
+
+ -->
