@@ -1,0 +1,11 @@
+title: "CHEN Xingzhou"
+description: "Robotics, Control, RL"
+theme: minima   # GitHub Pages 内置主题之一，简单好用
+author:
+  name: "CHEN Xingzhou"
+  email: "you@example.com"
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/RoboCubPilot" }
+# 让代码块、数学公式更好用（MathJax 走自定义 include）
+markdown: kramdown
