@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Xingzhou's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, Department of Electronic and Computer Engineering, HKUST, 2026 (expected)
+* B.S., College of Control Science and Engineering, Zhejiang University, 2021
+
+- - - - - - - - - - -
+
+Selected Honors
+======
+ - **Outstanding Graduates of Zhejiang University**, 2021, Zhejiang University
+ - **Zhejiang University Scholarship-First Prize (top 3%)**, 2018, 2019, Zhejiang University
+ - **Outstanding student**, 2018, 2019, Zhejiang University
+ - **SUPCON Scholarship**, 2019, Zhejiang University
+ - **三好杯游泳比赛50m蛙泳等项目金牌**, 2018, 2020, 2021, Zhejiang University
+ - **Best Teaching Assistant Award**, 2024, HKUST
+
+- - - - - - - - - - -
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2024 -- Fall 2025: **Research Intern**
+  * Company: Robotics X Lab, Tencent 
+  * Team: Perception–Action Collaborative Robotics Group
+  * Mentor: [Yuquan WANG](https://ywang-robotics.github.io/)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2024 -- Winter 2024: **Research Intern**
+  * Company: Noah’s Ark Lab, Huawei
+  * Team: Embodied AI group
+  * Mentor: [Shuang WU](https://swuhk.github.io/index.html)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2019 -- Summer 2021: **Research Assistant**
+  * Lab: CAD & CG Lab, Zhejiang University
+  * Supervisor: Prof. [Jin HUANG](http://www.cad.zju.edu.cn/home/hj/index.xml)
+
+- - - - - - - - - - -
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Platform: Ros, Mujoco, Isaacgym, Isaaclab
+* Coding: C++, Python, Pytorch, Data structure
+* Math: Numerical analysis, Convex optimization, Measure theory
+* Control: Estimation Theory, Optimal control, RL
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- - - - - - - - - - -
   
-Talks
+Community Services
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Conference reviewer: ACC, CDC, CCC
+* Journal reviewer: TCNS, RAL
