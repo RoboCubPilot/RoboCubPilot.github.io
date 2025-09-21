@@ -23,7 +23,7 @@ repository               : "RoboCubPilot/RoboCubPilot.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/xingzhou_chen.jpg"
+  avatar           : "xingzhou_chen.jpg"
   name             : "CHEN Xingzhou (陈星周)"
   pronouns         : # example: "she/her"  
   bio              : "AI Robotics Engineer & Researcher"
