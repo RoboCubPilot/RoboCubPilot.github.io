@@ -17,10 +17,10 @@ Future Career
 ======
 <font color="red">I am expected to graduate in 2026 and am seeking an industry position related to robotics.</font>  It would be a great honor for me to join a company that shares the following vision:
 
- - 追求**软硬件一体化**的综合能力，而不是只做其中一方面
- - 以**产品落地**为首要目标来探索技术，而不是围绕技术去创造产品
- - 以将机器人打造为**交互终端**为最终目标，而不是仅仅作为工具
- - 注重机器人带给人的**情绪价值**，而不仅仅是使用价值
+ - 追求**软硬件一体化**的综合能力
+ - 以**产品落地**为首要目标来探索技术
+ - 以将机器人打造为**交互终端**为最终目标
+ - 注重机器人带给人的**情绪价值**
  - 相信 **scaling law**，但不盲目信奉 scaling law
  - 坚持**长期主义**，不对机器人的短期前景过分乐观
  
