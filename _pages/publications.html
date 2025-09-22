@@ -11,29 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-Coming soon.
 
-<!-- New style rendering if publication categories are defined -->
+<p>[1] <a href="{% link _publications/paper1.md %}">Contact Estimation for Humanoid Robots via Diffusion Policy</a></p>
 
-<!-- {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p>[2] <a href="{% link _publications/paper2.md %}">Event Imagination Model for Policy Learning</a></p>
 
- -->
+<p>[3] <a href="{% link _publications/paper3.md %}">Secure State Estimation of Cyber-Physical Systems via Gaussian Bernoulli Mixture Model</a></p>
 
+<p>[4] <a href="{% link _publications/paper4.md %}">Compensation Estimation Algorithm for Multi-Sensor Attack Detection in Autonomous Driving</a></p>
+
+<p>[5] <a href="{% link _publications/paper5.md %}">Online Stealthy Attack for Cyber-Physical Systems</a></p>
