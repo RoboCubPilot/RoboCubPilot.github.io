@@ -57,22 +57,22 @@ Mujoco部署结果
 ======
 <div style="display:flex; justify-content:center; gap:20px;">
 <figure style="max-width:240px; text-align:center;">
-    <img src="/files/project2/5.gif" alt="Figure" style="width:100%; height:auto;">
+    <img src="/files/project2/6.gif" alt="Figure" style="width:100%; height:auto;">
     <figcaption>Figure 5: 站立</figcaption>
 </figure>
 
 <figure style="max-width:240px; text-align:center;">
-    <img src="/files/project2/6.gif" alt="Figure" style="width:100%; height:auto;">
+    <img src="/files/project2/7.gif" alt="Figure" style="width:100%; height:auto;">
     <figcaption>Figure 6: 拿住</figcaption>
 </figure>
 
 <figure style="max-width:240px; text-align:center;">
-    <img src="/files/project2/7.gif" alt="Figure" style="width:100%; height:auto;">
+    <img src="/files/project2/8.gif" alt="Figure" style="width:100%; height:auto;">
     <figcaption>Figure 7: 接住</figcaption>
 </figure>
 
 <figure style="max-width:240px; text-align:center;">
-    <img src="/files/project2/8.gif" alt="Figure" style="width:100%; height:auto;">
+    <img src="/files/project2/5.gif" alt="Figure" style="width:100%; height:auto;">
     <figcaption>Figure 8: 接和抛</figcaption>
 </figure>
 </div>
