@@ -1,5 +1,5 @@
 ---
-permalink: /projects/project1
+permalink: /projects/project4
 collection: projects
 category: manuscripts
 title: "About me"
